@@ -1,0 +1,20 @@
+body{
+  background-color: mistyrose;
+}
+hr{
+border-style:  none;
+border-top: dotted;
+border-color: green;
+border-width: 5px;
+width: 50%;
+}
+h1{
+  color: white;
+  background-color:cyan;
+}
+h3{
+  color: hotpink;
+}
+img{
+  background-color: lightpink;
+}
